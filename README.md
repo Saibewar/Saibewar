@@ -5,5 +5,4 @@
 ### - 🔭 I’m currently working on - Python, R, Machine Learning, Tableau, SQL
 ### - 🌱 I’m currently learning - Machine Learning Algorithms & their use cases, Statistics, & EDA Approaches
 ### - 👯 I’m looking to collaborate on ...
-### - 📫 How to reach me: [Linkedln]([https://www.linkedin.com/in/aishwarya-saibewar-b31529103/]) 
-
+### - 📫 How to reach me: [My Linkedln](https://www.linkedin.com/in/aishwarya-saibewar-b31529103/)
